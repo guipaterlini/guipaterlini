@@ -26,5 +26,10 @@
   <a href = "mailto:guilhermepaterlini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilhermepaterlini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://wa.me/+5567991878181" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+      
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gandara247&bg_color=0a0c10&color=d0cdd0&line=ae00ff&point=daa3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+  ![Snake animation](https://github.com/gandara247/gandara247/blob/output/github-contribution-grid-snake.svg)
+      
 </div>
 
