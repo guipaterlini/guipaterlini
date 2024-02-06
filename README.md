@@ -3,7 +3,7 @@
 - 🔭 Estudando Javascript
 - 😄 Pronouns: ele/dele
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/guipaterlini">
   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guipaterlini&layout=compact&langs_count=7&theme=dark"/>
 </div>
