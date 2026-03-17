@@ -1,7 +1,6 @@
 ### Olá, Guilherme Paterlini aqui! 👋
 
 - 🔭 Estudando Javascript
-- 😄 Pronouns: ele/dele
 
 <!-- <div align="start">
   <a href="https://github.com/guipaterlini">
